@@ -3,7 +3,7 @@
 
 ![item list](the-game-of-life-screenShot.png)
 
-# Click to play: https://amazing-hoover-408f5b.netlify.com/
+### Click to play: https://amazing-hoover-408f5b.netlify.com/
 
 ## Used javascript in order to depict Conways game of LIFE
 ## The rules are simple
