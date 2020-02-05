@@ -12,7 +12,7 @@ let rows
 let resolution = 8
 
 function setup() {
-  createCanvas(800, 400)
+  createCanvas(1400, 600)
   // to dynamicly expose squares
   cols = width / resolution;
   rows = height / resolution;
@@ -79,7 +79,7 @@ function countNeighbors(grid, x, y) {
 }
 
 
-var p = document.getElementById("reset"); 
+var p = document.getElementById("reset");
  p.onclick = showAlert;
  function showAlert(event) {
 location.reload()
